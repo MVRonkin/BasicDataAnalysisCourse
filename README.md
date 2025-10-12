@@ -1,4 +1,8 @@
 
-<img src="https://github.com/MVRonkin/BasicDataAnalysisCourse/raw/main/cover.png" width="500px">
-
-https://elar.urfu.ru/handle/10995/122740 - Долганов А. Ю. Базовые алгоритмы машинного обучения на языке Python : учебно-методическое пособие : Рекомендовано методическим советом Уральского федерального университета для студентов вуза, обучающихся по направлениям подготовки 09.03.01, 09.04.01 — Информатика и вычислительная техника, 09.03.03, 09.04.03 — Прикладная информатика, 09.03.04, 09.04.04 — Программная инженерия, 09.04.02 — Информационные системы и технологии / А. Ю. Долганов, М. В. Ронкин, А. В. Созыкин ; научный редактор Д. Б. Берг ; Министерство науки и высшего образования Российской Федерации, Уральский федеральный университет имени первого Президента России Б. Н. Ельцина. — Екатеринбург : Издательство Уральского университета, 2023. — 124 с. — ISBN 978-5-7996-3632-6. — Текст : непосредственный.
+ Задачи на домашние упражнения
+ 1. [101-Numpy](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb)
+ 2. [NumPy & Pandas practice problems](https://www.kaggle.com/discussions/general/306223)
+ 3. [LeetCode introduction-to-pandas](https://leetcode.com/studyplan/introduction-to-pandas/)
+ 4. [LeetCode 30-days-of-pandas](https://leetcode.com/studyplan/30-days-of-pandas/)
+ 5. [45 Fundamental Pandas Interview Questions in 2025](https://github.com/Devinterview-io/pandas-interview-questions)
+ 6. [Matplotlib/Seaborn - Interview Questions](https://dynamicduniya.com/interview-question/matplotlibseaborn)
