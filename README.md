@@ -6,3 +6,4 @@
  4. [LeetCode 30-days-of-pandas](https://leetcode.com/studyplan/30-days-of-pandas/)
  5. [45 Fundamental Pandas Interview Questions in 2025](https://github.com/Devinterview-io/pandas-interview-questions)
  6. [Matplotlib/Seaborn - Interview Questions](https://dynamicduniya.com/interview-question/matplotlibseaborn)
+ 7. [OpenML Topic 1 Titanic pandas](https://github.com/Yorko/mlcourse.ai/blob/main/jupyter_russian/topic01_pandas_data_analysis/lesson1_practice_pandas_titanic.ipynb) ([датасет](https://raw.githubusercontent.com/Yorko/mlcourse.ai/refs/heads/main/data/titanic_train.csv))
