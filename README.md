@@ -2,8 +2,9 @@
 1. [Долганов, М. В. Ронкин, А. В. Созыкин Базовые алгоритмы машинного обучения на языке Python : учебно-методическое пособие](https://elar.urfu.ru/handle/10995/122740)
 2. [Открытый курс машинного обучения](https://habr.com/ru/companies/ods/articles/322626/)
 3. [Дмитрий Макаров Анализ и обработка данных](https://www.dmitrymakarov.ru/data/), [Обучение модели](https://www.dmitrymakarov.ru/learning/)
-5. [Дьяконов А.Г. Машинное обучение и анализ данных](https://github.com/Dyakonov/MLDM_BOOK), блог [анлиз малых даннх](https://alexanderdyakonov.wordpress.com/)
-6. [Учебник по машинному обучению ШАД](https://education.yandex.ru/handbook/ml)
+4. [Дьяконов А.Г. Машинное обучение и анализ данных](https://github.com/Dyakonov/MLDM_BOOK), блог [анлиз малых даннх](https://alexanderdyakonov.wordpress.com/)
+5. [Учебник по машинному обучению ШАД](https://education.yandex.ru/handbook/ml)
+6. [Kaggle Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning), [другие курсы](https://www.kaggle.com/learn), [обзор платформы kaggle](https://habr.com/ru/companies/skillfactory/articles/851814/)
 
    
  Задачи на домашние упражнения
