@@ -1,4 +1,10 @@
-
+Доп.литература
+1. [Долганов, М. В. Ронкин, А. В. Созыкин Базовые алгоритмы машинного обучения на языке Python : учебно-методическое пособие](https://elar.urfu.ru/handle/10995/122740)
+2. [Открытый курс машинного обучения](https://habr.com/ru/companies/ods/articles/322626/)
+3. [Дмитрий Макаров Анализ и обработка данных](https://www.dmitrymakarov.ru/data/)
+4. [Дмитрий Макаров Обучение модели](https://www.dmitrymakarov.ru/learning/)
+5. [Дьяконов А.Г. Машинное обучение и анализ данных](https://github.com/Dyakonov/MLDM_BOOK)
+6. [Учебник по машинному обучению ШАД](https://education.yandex.ru/handbook/ml)
  Задачи на домашние упражнения
  1. [101-Numpy](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb)
  2. [NumPy & Pandas practice problems](https://www.kaggle.com/discussions/general/306223)
