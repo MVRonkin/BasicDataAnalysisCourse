@@ -1,9 +1,8 @@
 Доп.литература
 1. [Долганов, М. В. Ронкин, А. В. Созыкин Базовые алгоритмы машинного обучения на языке Python : учебно-методическое пособие](https://elar.urfu.ru/handle/10995/122740)
 2. [Открытый курс машинного обучения](https://habr.com/ru/companies/ods/articles/322626/)
-3. [Дмитрий Макаров Анализ и обработка данных](https://www.dmitrymakarov.ru/data/)
-4. [Дмитрий Макаров Обучение модели](https://www.dmitrymakarov.ru/learning/)
-5. [Дьяконов А.Г. Машинное обучение и анализ данных](https://github.com/Dyakonov/MLDM_BOOK)
+3. [Дмитрий Макаров Анализ и обработка данных](https://www.dmitrymakarov.ru/data/), [Обучение модели](https://www.dmitrymakarov.ru/learning/)
+5. [Дьяконов А.Г. Машинное обучение и анализ данных](https://github.com/Dyakonov/MLDM_BOOK), блог [анлиз малых даннх](https://alexanderdyakonov.wordpress.com/)
 6. [Учебник по машинному обучению ШАД](https://education.yandex.ru/handbook/ml)
 
    
@@ -17,8 +16,4 @@
  7. [OpenML Topic 1 Titanic pandas](https://github.com/Yorko/mlcourse.ai/blob/main/jupyter_russian/topic01_pandas_data_analysis/lesson1_practice_pandas_titanic.ipynb) ([датасет](https://raw.githubusercontent.com/Yorko/mlcourse.ai/refs/heads/main/data/titanic_train.csv))
  8. [kaggle titanic-tutorial](https://www.kaggle.com/code/alexisbcook/titanic-tutorial)
  9. [kaggle house-prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/code?competitionId=5407&sortBy=voteCount&excludeNonAccessedDatasources=true)
- 10. [vehicle-dataset 1 (price prediction)](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho/data)
- 11. [car price dataset 2](https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge)
- 12. [car price dataset 3](https://www.kaggle.com/datasets/zafarali27/car-price-prediction)
- 13. [car price dataset 4](https://www.kaggle.com/datasets/sukhmandeepsinghbrar/car-price-prediction-dataset)
- 14. [car price dataset 5](https://www.kaggle.com/datasets/adhurimquku/ford-car-price-prediction)
+ 10. car price prediction datasets:  [vehicle-dataset 1](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho/data) [dataset 2](https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge) [dataset 3](https://www.kaggle.com/datasets/zafarali27/car-price-prediction) [dataset 4](https://www.kaggle.com/datasets/sukhmandeepsinghbrar/car-price-prediction-dataset) [dataset 5](https://www.kaggle.com/datasets/adhurimquku/ford-car-price-prediction)
