@@ -21,3 +21,4 @@
  8. [kaggle titanic-tutorial](https://www.kaggle.com/code/alexisbcook/titanic-tutorial)
  9. [kaggle house-prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/code?competitionId=5407&sortBy=voteCount&excludeNonAccessedDatasources=true)
  10. car price prediction datasets:  [vehicle-dataset 1](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho/data) [dataset 2](https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge) [dataset 3](https://www.kaggle.com/datasets/zafarali27/car-price-prediction) [dataset 4](https://www.kaggle.com/datasets/sukhmandeepsinghbrar/car-price-prediction-dataset) [dataset 5](https://www.kaggle.com/datasets/adhurimquku/ford-car-price-prediction) [cars](https://www.kaggle.com/datasets/hydramst/cars-moldova)
+ 11. [`Соревонванпие на домашнее задание`](https://www.kaggle.com/competitions/cars-1-hw) # [invite](ttps://www.kaggle.com/t/bb40d45f173e44099f0622c6a72149e7)
