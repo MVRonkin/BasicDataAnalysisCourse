@@ -24,6 +24,9 @@
 
 |№|Контрольные мероприятия|baseline|invte|
 ---------------------------------------------------------
+||||
+
+
 |1|[Курс с домашними заданиями по `Pandas, Numpy, Matplotlib`](https://elearn.urfu.ru/course/view.php?id=8917)|-|[elearn](https://elearn.urfu.ru/course/view.php?id=8917)|
 |2|[Соревонвание - домашнее задание `Scikit-learn`](https://www.kaggle.com/competitions/cars-1-hw)|
 [github ref](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/basic%20competitions/baseline_hw1.ipynb)|
