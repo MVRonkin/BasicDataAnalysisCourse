@@ -23,10 +23,7 @@
  10. car price prediction datasets:  [vehicle-dataset 1](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho/data) [dataset 2](https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge) [dataset 3](https://www.kaggle.com/datasets/zafarali27/car-price-prediction) [dataset 4](https://www.kaggle.com/datasets/sukhmandeepsinghbrar/car-price-prediction-dataset) [dataset 5](https://www.kaggle.com/datasets/adhurimquku/ford-car-price-prediction) [cars](https://www.kaggle.com/datasets/hydramst/cars-moldova)
 
 |№|Контрольные мероприятия|baseline|invte|
----------------------------------------------------------
-||||
-
-
+|--|----------------------|--------|------|
 |1|[Курс с домашними заданиями по `Pandas, Numpy, Matplotlib`](https://elearn.urfu.ru/course/view.php?id=8917)|-|[elearn](https://elearn.urfu.ru/course/view.php?id=8917)|
 |2|[Соревонвание - домашнее задание `Scikit-learn`](https://www.kaggle.com/competitions/cars-1-hw)|
 [github ref](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/basic%20competitions/baseline_hw1.ipynb)|
