@@ -22,16 +22,10 @@
  9. [kaggle house-prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/code?competitionId=5407&sortBy=voteCount&excludeNonAccessedDatasources=true)
  10. car price prediction datasets:  [vehicle-dataset 1](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho/data) [dataset 2](https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge) [dataset 3](https://www.kaggle.com/datasets/zafarali27/car-price-prediction) [dataset 4](https://www.kaggle.com/datasets/sukhmandeepsinghbrar/car-price-prediction-dataset) [dataset 5](https://www.kaggle.com/datasets/adhurimquku/ford-car-price-prediction) [cars](https://www.kaggle.com/datasets/hydramst/cars-moldova)
 
-|№|Контрольные мероприятия|baseline|invte|
-|--|----------------------|--------|------|
-|1|[Курс с домашними заданиями по `Pandas, Numpy, Matplotlib`](https://elearn.urfu.ru/course/view.php?id=8917)|-|[elearn](https://elearn.urfu.ru/course/view.php?id=8917)|
-|2|[Соревонвание - домашнее задание `Scikit-learn`](https://www.kaggle.com/competitions/cars-1-hw)|
-[github ref](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/basic%20competitions/baseline_hw1.ipynb)|
-[__invite__](https://www.kaggle.com/t/bb40d45f173e44099f0622c6a72149e7) |
-|3|[Соревонвание - домашнее задание `Zero Shot Image Classification` ](https://www.kaggle.com/competitions/hw-2-zero-shot-image-classification) |
-[github ref](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/basic%20competitions/baseline_hw2.ipynb)|
-[__invite__]() |
-|4|[Соревонвание - домашнее задание`Question and Answers` ](https://www.kaggle.com/competitions/hw-3-questions-and-answering/) |
-[github ref](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/basic%20competitions/Baseline_hw3.ipynb)|
-[__invite__]() |
+| № | Контрольные мероприятия                                                                 | Baseline                                                                                                                                           | Invite                                                                                              |
+|---|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| 1 | [Курс с домашними заданиями по `Pandas, NumPy, Matplotlib`](https://elearn.urfu.ru/course/view.php?id=8917) | —                                                                                                                                                  | [elearn](https://elearn.urfu.ru/course/view.php?id=8917)                                           |
+| 2 | [Соревнование — домашнее задание `Scikit-learn`](https://www.kaggle.com/competitions/cars-1-hw)            | [GitHub ref](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/basic%20competitions/baseline_hw1.ipynb)                      | [Invite](https://www.kaggle.com/t/bb40d45f173e44099f0622c6a72149e7)                               |
+| 3 | [Соревнование — домашнее задание `Zero Shot Image Classification`](https://www.kaggle.com/competitions/hw-2-zero-shot-image-classification) | [GitHub ref](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/basic%20competitions/baseline_hw2.ipynb)                      | —                                                                                                   |
+| 4 | [Соревнование — домашнее задание `Question and Answering`](https://www.kaggle.com/competitions/hw-3-questions-and-answering/) | [GitHub ref](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/basic%20competitions/Baseline_hw3.ipynb)                      | —                                                                                                   |
 
