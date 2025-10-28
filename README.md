@@ -1,3 +1,12 @@
+| № | Контрольные мероприятия| Baseline  | Invite|Workshops|
+|---|---------------------|--------------|-------|---------|
+| 1 | [Курс с домашними заданиями по `Pandas, NumPy, Matplotlib`](https://elearn.urfu.ru/course/view.php?id=8917) | —  | [elearn](https://elearn.urfu.ru/course/view.php?id=8917)   | [Numpy](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/01_lab_Numpy.ipynb), [pandas intro](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/02_%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_Pandas_Cars.ipynb), [pivot+visulaize](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/03_Pandas_%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.ipynb)|
+| 2 | [Соревнование — домашнее задание `Scikit-learn`](https://www.kaggle.com/competitions/cars-1-hw)   | [GitHub ref](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/basic%20competitions/baseline_hw1.ipynb)   | [Invite](https://www.kaggle.com/t/bb40d45f173e44099f0622c6a72149e7)   | [SKLearn Intro](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/04_SKLearnBasics.ipynb) |
+| 3 | [Соревнование — домашнее задание `Zero Shot Image Classification`](https://www.kaggle.com/competitions/hw-2-zero-shot-image-classification) | [GitHub ref](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/basic%20competitions/baseline_hw2.ipynb)       | —     | [HF_intro](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/05_HF_intro.ipynb) |
+| 4 | [Соревнование — домашнее задание `Question and Answering`](https://www.kaggle.com/competitions/hw-3-questions-and-answering/) | [GitHub ref](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/basic%20competitions/Baseline_hw3.ipynb)                      | —     | [PromptEng](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/06_PromptEng.ipynb) |
+
+
+
 Доп.литература
 1. [Долганов, М. В. Ронкин, А. В. Созыкин Базовые алгоритмы машинного обучения на языке Python : учебно-методическое пособие](https://elar.urfu.ru/handle/10995/122740)
 2. [Открытый курс машинного обучения](https://habr.com/ru/companies/ods/articles/322626/)
@@ -22,8 +31,4 @@
  9. [kaggle house-prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/code?competitionId=5407&sortBy=voteCount&excludeNonAccessedDatasources=true)
  10. car price prediction datasets:  [vehicle-dataset 1](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho/data) [dataset 2](https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge) [dataset 3](https://www.kaggle.com/datasets/zafarali27/car-price-prediction) [dataset 4](https://www.kaggle.com/datasets/sukhmandeepsinghbrar/car-price-prediction-dataset) [dataset 5](https://www.kaggle.com/datasets/adhurimquku/ford-car-price-prediction) [cars](https://www.kaggle.com/datasets/hydramst/cars-moldova)
 
-Контрольные мероприятия
- 1. [Соревонвание - домашнее задание `Scikit-learn`](https://www.kaggle.com/competitions/cars-1-hw) [__invite__](https://www.kaggle.com/t/bb40d45f173e44099f0622c6a72149e7) 
- 2. [Соревонвание - домашнее задание `Zero Shot Image Classification` ](https://www.kaggle.com/competitions/cars-1-hw) 
- 3. [Соревонвание - домашнее задание `Question and Answers`](https://www.kaggle.com/competitions/hw-3-questions-and-answering/) 
- 4. [Курс с домашними заданиями по `Pandas, Numpy, Matplotlib`](https://elearn.urfu.ru/course/view.php?id=8917)
+
