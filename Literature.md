@@ -41,6 +41,7 @@
 2. [scikit-lego](https://github.com/koaning/scikit-lego)
 3. [sweetviz](https://github.com/fbdesignpro/sweetviz)
 4. [ydata-profiling](https://github.com/ydataai/ydata-profiling)
+5. [pyiterable](https://github.com/apicrafter/pyiterable)
 
 1. [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
 
