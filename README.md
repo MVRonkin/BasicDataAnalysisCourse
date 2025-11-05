@@ -39,3 +39,79 @@
 5. [kaggle-solutions-repository](https://github.com/faridrashidi/kaggle-solutions)
 
 
+15 бесплатных книг по Data Science (часть 1)*
+
+1. *Veridical Data Science*  
+👩‍🔬 Авторы: Bin Yu & Rebecca L. Barter  
+Описание: Введение в науку о данных (data science): как область возникла, как она развивается и какую роль играет в современном мире. 
+🔗 https://vdsbook.com/
+
+2. *Data Science: Theories, Models, Algorithms, and Analytics*  
+📘 Автор: Sanjiv Ranjan Das  
+Описание: Учебник по DS с упором на алгоритмы и аналитику.  
+🔗 https://srdas.github.io/Papers/DSA_Book.pdf
+
+3. *Think Python 3E*  
+🐍 Автор: Allen B. Downey  
+Описание: Современное введение в Python с нуля.  
+🔗 https://greenteapress.com/wp/think-python-3rd-edition/
+
+4. *Python Data Science Handbook*  
+📊 Автор: Jake VanderPlas  
+Описание: Практика работы с NumPy, pandas, sklearn и визуализациями.  
+🔗 https://jakevdp.github.io/PythonDataScienceHandbook/
+
+5. *R for Data Science*  
+📈 Авторы: Hadley Wickham и др.  
+Описание: Современный подход к анализу данных в R.  
+🔗 https://r4ds.hadley.nz/
+
+6. *Think Stats 3E*  
+📐 Автор: Allen B. Downey  
+Описание: Статистика через Python и практику.  
+🔗 https://allendowney.github.io/ThinkStats/
+
+7. *Statistics and Prediction Algorithms Through Case Studies*  
+📙 Автор: Rafael A. Irizarry  
+Описание: Кейсы по статистике и прогнозированию с кодом на R.  
+🔗 https://rafalab.github.io/dsbook/
+
+8. *Bayesian Methods for Hackers*  
+🧠 Автор: Cameron Davidson-Pilon  
+Описание: Визуальное введение в байесовский анализ с PyMC.  
+🔗 https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+
+9. *Think Bayes 2E*  
+🔢 Автор: Allen B. Downey  
+Описание: Пошаговый байесовский подход на Python.  
+🔗 https://allendowney.github.io/ThinkBayes2/
+
+10. *Data Science at the Command Line*  
+💻 Автор: Jeroen Janssens  
+Описание: Unix-инструменты как основа для анализа данных.  
+🔗 https://datascienceatthecommandline.com/
+
+Математика и теория вероятностей:
+11. Теория вероятностей
+👩‍🔬 Автор: Чернова Н. И.
+Описание: Понятное введение в теорию вероятностей, основа для изучения математической статистики.
+🔗 http://www.nsu.ru/mmf/tvims/chernova/tv/tv_nsu07.pdf
+
+12. * Математическая статистика*
+👩‍🔬 Автор: Чернова Н. И.
+Описание: Продолжение курса по теории вероятностей (НГУ), покрывающее основы математической статистики: оценки параметров, проверка гипотез, регрессионный анализ.
+🔗 http://www.nsu.ru/mmf/tvims/chernova/ms/ms_nsu07.pdf
+
+13. * Курс дифференциального и интегрального исчисления (Том 1)*
+👩‍🔬 Автор: Фихтенгольц Г. М.
+Описание: Фундаментальный и классический учебник по основам математического анализа.
+🔗 http://math.ru/lib/book/djvu/fichtengolz/f_1.djvu 
+
+14.*Векторные исчисления для инженеров*
+👩‍🔬 Автор:Jeffrey R. Chasnov
+🔗 http://math.ru/lib/book/djvu/fichtengolz/f_1.djvu (https://t.me/datascienceiot/3196)
+
+15 .*Theory—Theoretical & Mathematical Foundations ;
+👩‍🔬Daniel A. Roberts, Sho Yaida, Boris Hanin
+Описание: Эта книга предлагает теоретический подход к анализу глубинных нейросетей с практической значимостью
+🔗https://arxiv.org/abs/2106.10165 (https://t.me/data_math/750)
