@@ -37,7 +37,8 @@
 3. [interpretable-ml-book](https://christophm.github.io/interpretable-ml-book/)
 4. [Интерпретация Shap, Lime](https://habr.com/ru/companies/ods/articles/599573/)
 5. [ML course berkeley](https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf)
-6. [kaggle-solutions-repository](https://github.com/faridrashidi/kaggle-solutions)
+6. [introduction to machine-learning notes](https://www.cs.cmu.edu/~hn1/documents/machine-learning/notes.pdf)
+7. [kaggle-solutions-repository](https://github.com/faridrashidi/kaggle-solutions)
 
 
 15 бесплатных книг по Data Science (часть 1)*
