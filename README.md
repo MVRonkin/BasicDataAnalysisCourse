@@ -36,7 +36,8 @@
 2. [Продвинутая визуализация - советы](https://github.com/cxli233/FriendsDontLetFriends)
 3. [interpretable-ml-book](https://christophm.github.io/interpretable-ml-book/)
 4. [Интерпретация Shap, Lime](https://habr.com/ru/companies/ods/articles/599573/)
-5. [kaggle-solutions-repository](https://github.com/faridrashidi/kaggle-solutions)
+5. [ML course berkeley](https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf)
+6. [kaggle-solutions-repository](https://github.com/faridrashidi/kaggle-solutions)
 
 
 15 бесплатных книг по Data Science (часть 1)*
