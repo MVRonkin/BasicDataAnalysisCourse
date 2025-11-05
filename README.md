@@ -62,6 +62,8 @@
 3. [sweetviz](https://github.com/fbdesignpro/sweetviz)
 4. [ydata-profiling](https://github.com/ydataai/ydata-profiling)
 
+1. [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
+
 15 бесплатных книг по Data Science (часть 1)*
 
 1. *Veridical Data Science*  
