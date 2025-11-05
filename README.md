@@ -13,10 +13,11 @@
 3. [Дмитрий Макаров Анализ и обработка данных](https://www.dmitrymakarov.ru/data/), [Обучение модели](https://www.dmitrymakarov.ru/learning/)
 4. [Дьяконов А.Г. Машинное обучение и анализ данных](https://github.com/Dyakonov/MLDM_BOOK), блог [анлиз малых даннх](https://alexanderdyakonov.wordpress.com/)
 5. [Учебник по машинному обучению ШАД](https://education.yandex.ru/handbook/ml)
-6. [Kaggle Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning), [другие курсы](https://www.kaggle.com/learn), [обзор платформы kaggle](https://habr.com/ru/companies/skillfactory/articles/851814/) [и тут](https://tproger.ru/translations/kaggle-competitions-introduction) и [тут](https://www.kaggle.com/code/willkoehrsen/start-here-a-gentle-introduction)
-7. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
-8. [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
-9. ML Algorithms from scratch [1](https://github.com/eriklindernoren/ML-From-Scratch), [2](https://dafriedman97.github.io/mlbook/content/introduction.html), [3](https://www.kaggle.com/code/egazakharenko/all-popular-ml-algorithms-from-scratch-in-python), [on napkin](https://github.com/eriklindernoren/NapkinML)
+6. [Китов В.В. Машинное обучение](https://deepmachinelearning.ru/docs/Machine-learning/book-title).
+7. [Kaggle Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning), [другие курсы](https://www.kaggle.com/learn), [обзор платформы kaggle](https://habr.com/ru/companies/skillfactory/articles/851814/) [и тут](https://tproger.ru/translations/kaggle-competitions-introduction) и [тут](https://www.kaggle.com/code/willkoehrsen/start-here-a-gentle-introduction)
+8. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+9. [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+10. ML Algorithms from scratch [1](https://github.com/eriklindernoren/ML-From-Scratch), [2](https://dafriedman97.github.io/mlbook/content/introduction.html), [3](https://www.kaggle.com/code/egazakharenko/all-popular-ml-algorithms-from-scratch-in-python), [on napkin](https://github.com/eriklindernoren/NapkinML)
 
    
  Задачи на домашние упражнения для самостоятельного изучения
