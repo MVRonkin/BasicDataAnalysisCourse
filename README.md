@@ -18,5 +18,21 @@
  9. [kaggle house-prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/code?competitionId=5407&sortBy=voteCount&excludeNonAccessedDatasources=true)
  10. car price prediction datasets:  [vehicle-dataset 1](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho/data) [dataset 2](https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge) [dataset 3](https://www.kaggle.com/datasets/zafarali27/car-price-prediction) [dataset 4](https://www.kaggle.com/datasets/sukhmandeepsinghbrar/car-price-prediction-dataset) [dataset 5](https://www.kaggle.com/datasets/adhurimquku/ford-car-price-prediction) [cars](https://www.kaggle.com/datasets/hydramst/cars-moldova)
 
-
- [Дополнительная литература](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Literature.md)
+Доп.литература
+1. [Долганов, М. В. Ронкин, А. В. Созыкин Базовые алгоритмы машинного обучения на языке Python : учебно-методическое пособие](https://elar.urfu.ru/handle/10995/122740)
+2. [Открытый курс машинного обучения](https://habr.com/ru/companies/ods/articles/322626/)
+3. [Дмитрий Макаров Анализ и обработка данных](https://www.dmitrymakarov.ru/data/), [Обучение модели](https://www.dmitrymakarov.ru/learning/)
+4. [Дьяконов А.Г. Машинное обучение и анализ данных](https://github.com/Dyakonov/MLDM_BOOK), блог [анлиз малых даннх](https://alexanderdyakonov.wordpress.com/)
+5. [Учебник по машинному обучению ШАД](https://education.yandex.ru/handbook/ml)
+6. [Китов В.В. Машинное обучение](https://deepmachinelearning.ru/docs/Machine-learning/book-title).
+7. [Kaggle Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning), [другие курсы](https://www.kaggle.com/learn), [обзор платформы kaggle](https://habr.com/ru/companies/skillfactory/articles/851814/) [и тут](https://tproger.ru/translations/kaggle-competitions-introduction) и [тут](https://www.kaggle.com/code/willkoehrsen/start-here-a-gentle-introduction)
+8. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+9. [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+10. ML Algorithms from scratch [1](https://github.com/eriklindernoren/ML-From-Scratch), [2](https://dafriedman97.github.io/mlbook/content/introduction.html), [3](https://www.kaggle.com/code/egazakharenko/all-popular-ml-algorithms-from-scratch-in-python), [on napkin](https://github.com/eriklindernoren/NapkinML)
+11. [12 материалов по EDA от Yandex](https://habr.com/ru/companies/yandex_praktikum/articles/879316/)
+12. [https://www.sscardapane.it/alice-book/](https://sscardapane.notion.site/Guided-lab-sessions-18c25bd12a8c8068b972f7612fcde8d5)
+13. [Ivan Alexandrov ML Competetion](https://www.kaggle.com/ivanblch/code)
+14. [Метрики в ML](https://habr.com/ru/articles/821547/), [Anomaly Metrics](https://habr.com/ru/companies/rosatom/articles/687270/)
+15. [пособие по визуализации данных](https://royal-statistical-society.github.io/datavisguide/)
+16. 
+ [Дополнительная и продвинутая литература](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Literature.md)
