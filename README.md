@@ -19,4 +19,4 @@
  10. car price prediction datasets:  [vehicle-dataset 1](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho/data) [dataset 2](https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge) [dataset 3](https://www.kaggle.com/datasets/zafarali27/car-price-prediction) [dataset 4](https://www.kaggle.com/datasets/sukhmandeepsinghbrar/car-price-prediction-dataset) [dataset 5](https://www.kaggle.com/datasets/adhurimquku/ford-car-price-prediction) [cars](https://www.kaggle.com/datasets/hydramst/cars-moldova)
 
 
- [Дополнительная литература](https://github.com/MVRonkin/BasicDataAnalysisCourse/tree/main)
+ [Дополнительная литература](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Literature.md)
