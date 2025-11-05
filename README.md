@@ -30,6 +30,11 @@
 8. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 9. [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 10. ML Algorithms from scratch [1](https://github.com/eriklindernoren/ML-From-Scratch), [2](https://dafriedman97.github.io/mlbook/content/introduction.html), [3](https://www.kaggle.com/code/egazakharenko/all-popular-ml-algorithms-from-scratch-in-python), [on napkin](https://github.com/eriklindernoren/NapkinML)
+11. [12 материалов по EDA от Yandex](https://habr.com/ru/companies/yandex_praktikum/articles/879316/)
+12. [https://www.sscardapane.it/alice-book/](https://sscardapane.notion.site/Guided-lab-sessions-18c25bd12a8c8068b972f7612fcde8d5)
+13. [Ivan Alexandrov ML Competetion](https://www.kaggle.com/ivanblch/code)
+14. [Метрики в ML](https://habr.com/ru/articles/821547/), [Anomaly Metrics](https://habr.com/ru/companies/rosatom/articles/687270/)
+15. [пособие по визуализации данных](https://royal-statistical-society.github.io/datavisguide/)
 
 Продвинутая литература
 1. [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/pdf/2108.02497)
@@ -39,7 +44,22 @@
 5. [ML course berkeley](https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf)
 6. [introduction to machine-learning notes](https://www.cs.cmu.edu/~hn1/documents/machine-learning/notes.pdf)
 7. [kaggle-solutions-repository](https://github.com/faridrashidi/kaggle-solutions)
+8. [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning](https://arxiv.org/abs/1811.12808)
+9. [Andrew Ng and Tengyu M ML Notes](https://cs229.stanford.edu/main_notes.pdf)
+10. [Exercises in Machine Learning](https://arxiv.org/pdf/2206.13446)
+11. [ ​Approaching (Almost) Any Machine Learning Problem ](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf)
+12. [Math for ML](https://gwthomas.github.io/docs/math4ml.pdf)
+13. [Algorithms for Decision Making](https://algorithmsbook.com/files/dm.pdf)
+14. [ML course HSE](https://github.com/esokolov/ml-course-hse)
+15. [Открытые книги по ML](https://habr.com/ru/companies/mws/articles/872230/)
+16. [Trustworthy Machine Learning](http://trustworthymachinelearning.com/)
+17. [Ускорить Pandas в 60 раз: проверяем лайфхаки из интернета на реальном проекте и обкладываемся бенчмарками](https://habr.com/ru/companies/tochka/articles/899730/)
+18. [bayesian-machine-learning](https://github.com/krasserm/bayesian-machine-learning)
 
+Малоизвестные инструменты
+1. [mlxtend](https://github.com/rasbt/mlxtend)
+2. [scikit-lego](https://github.com/koaning/scikit-lego)
+3. [sweetviz](https://github.com/fbdesignpro/sweetviz)
 
 15 бесплатных книг по Data Science (часть 1)*
 
