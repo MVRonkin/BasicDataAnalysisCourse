@@ -35,7 +35,8 @@
 13. [Ivan Alexandrov ML Competetion](https://www.kaggle.com/ivanblch/code)
 14. [Метрики в ML](https://habr.com/ru/articles/821547/), [Anomaly Metrics](https://habr.com/ru/companies/rosatom/articles/687270/)
 15. [пособие по визуализации данных](https://royal-statistical-society.github.io/datavisguide/)
-16. [Создание умных AI-агентов: полный курс по LangGraph от А до Я. Часть 1.](https://habr.com/ru/companies/amvera/articles/933460/) [Часть 2](https://habr.com/ru/companies/amvera/articles/948000/)
+16. [Создание умных AI-агентов: полный курс по LangGraph от А до Я. Часть 1.](https://habr.com/ru/companies/amvera/articles/933460/) [Часть 2](https://habr.com/ru/companies/amvera/articles/948000/) [Часть 3](https://habr.com/ru/companies/amvera/articles/949376/)
+17. []
 
     
  [Дополнительная и продвинутая литература](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Literature.md)
