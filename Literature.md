@@ -46,6 +46,11 @@
 
 1. [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
 
+Еще интересно:
+1. [EDA под другим углом](https://habr.com/ru/articles/480532/)
+2. [ydata-profile](https://medium.com/data-science/a-data-scientists-essential-guide-to-exploratory-data-analysis-25637eee0cf6)
+3. 
+
 15 бесплатных книг по Data Science (часть 1)*
 
 1. *Veridical Data Science*  
