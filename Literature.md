@@ -36,7 +36,8 @@
 17. [Ускорить Pandas в 60 раз: проверяем лайфхаки из интернета на реальном проекте и обкладываемся бенчмарками](https://habr.com/ru/companies/tochka/articles/899730/)
 18. [bayesian-machine-learning](https://github.com/krasserm/bayesian-machine-learning)
 19. [ml-q-and-ai book](https://sebastianraschka.com/books/ml-q-and-ai/#table-of-contents)
-20. [](https://learningds.org/intro.html)
+20. [Learning Data Science](https://learningds.org/)
+21. [подготовка к ML собеседованию части 1 - 5](https://habr.com/ru/users/Extremesarova/articles/)
 
 Малоизвестные инструменты
 1. [mlxtend](https://github.com/rasbt/mlxtend)
