@@ -1,3 +1,5 @@
+
+# 1
 | № | Контрольные мероприятия| Baseline  | Invite|Workshops|
 |---|---------------------|--------------|-------|---------|
 | 1 | [Курс с домашними заданиями по `Pandas, NumPy, Matplotlib`](https://elearn.urfu.ru/course/view.php?id=8917) | —  | [elearn](https://elearn.urfu.ru/course/view.php?id=8917)   | [Numpy](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/01_lab_Numpy.ipynb), [pandas intro](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/02_%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_Pandas_Cars.ipynb), [pivot+visulaize](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/03_Pandas_%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.ipynb)|
