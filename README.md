@@ -1,5 +1,5 @@
 
-# 1
+# Основные задания
 | № | Контрольные мероприятия| Baseline  | Invite|Workshops|
 |---|---------------------|--------------|-------|---------|
 | 1 | [Курс с домашними заданиями по `Pandas, NumPy, Matplotlib`](https://elearn.urfu.ru/course/view.php?id=8917) | —  | [elearn](https://elearn.urfu.ru/course/view.php?id=8917)   | [Numpy](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/01_lab_Numpy.ipynb), [pandas intro](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/02_%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_Pandas_Cars.ipynb), [pivot+visulaize](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/03_Pandas_%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.ipynb)|
@@ -7,8 +7,9 @@
 | 3 | [Соревнование — домашнее задание `Zero Shot Image Classification`](https://www.kaggle.com/competitions/hw-2-zero-shot-image-classification) | [GitHub](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/basic%20competitions/baseline_hw2.ipynb), [colab](https://colab.research.google.com/github/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/basic%20competitions/baseLine_hw2.ipynb)       | [invite](https://www.kaggle.com/t/d78d1ab22fad49f489209f0979e2d98a)    | [HF_intro](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/05_HF_intro.ipynb), [colab](https://colab.research.google.com/github/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/05_HF_intro.ipynb) |
 | 4 | [Соревнование — домашнее задание `Question and Answering`](https://www.kaggle.com/competitions/hw-3-questions-and-answering/) | [GitHub](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/basic%20competitions/Baseline_hw3.ipynb) , [colab](https://colab.research.google.com/github/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/basic%20competitions/Baseline_hw3.ipynb)                  | [invite](https://www.kaggle.com/t/75199fa973341b6c133db9758e0d4d70)     | [PromptEng](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/06_PromptEng.ipynb), [colab](https://colab.research.google.com/github/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/06_PromptEng.ipynb) |
 | 5 | [Разработка ТГ бота с `SaluteBot/GigaChat`](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/07_%D1%87%D0%B0%D1%82-%D0%B1%D0%BE%D1%82%D0%B0%20%D0%B2%20SaluteBot.pdf) | -  |  -  |[GitHub](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/07_%D1%87%D0%B0%D1%82-%D0%B1%D0%BE%D1%82%D0%B0%20%D0%B2%20SaluteBot.pdf)  |
+| 6 | [Разработка gradio бота с `SaluteSpeech/GigaChat`]([https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/07_%D1%87%D0%B0%D1%82-%D0%B1%D0%BE%D1%82%D0%B0%20%D0%B2%20SaluteBot.pdf](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/08_%D0%93%D0%BE%D0%BB%D0%BE%D1%81%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B1%D0%BE%D1%82_Colab.ipynb)) | -  |  -  |[GitHub]([https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/07_%D1%87%D0%B0%D1%82-%D0%B1%D0%BE%D1%82%D0%B0%20%D0%B2%20SaluteBot.pdf](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/08_%D0%93%D0%BE%D0%BB%D0%BE%D1%81%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B1%D0%BE%D1%82_Colab.ipynb)) , [colab](https://colab.research.google.com/github/MVRonkin/BasicDataAnalysisCourse/blob/main/Workshops/08_%D0%93%D0%BE%D0%BB%D0%BE%D1%81%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B1%D0%BE%D1%82_Colab.ipynb)  |
 
- Задачи на домашние упражнения для самостоятельного изучения
+ # Задачи на домашние упражнения для самостоятельного изучения
  1. [101-Numpy](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb)
  2. [NumPy & Pandas practice problems](https://www.kaggle.com/discussions/general/306223)
  3. [LeetCode introduction-to-pandas](https://leetcode.com/studyplan/introduction-to-pandas/)
@@ -22,7 +23,7 @@
  11. [kaggle competitons for get started](https://www.kaggle.com/discussions/getting-started/78482) and [here](https://www.kaggle.com/discussions/getting-started/44088)
  12. [500+ вопросов собеседований: SQL, Python, A/B, статистика, теория вероятностей, продуктовое мышление и др](https://interview-questions-app-production.up.railway.app/)
 
-Доп.литература
+# Доп.литература
 1. [Долганов, М. В. Ронкин, А. В. Созыкин Базовые алгоритмы машинного обучения на языке Python : учебно-методическое пособие](https://elar.urfu.ru/handle/10995/122740)
 2. [Открытый курс машинного обучения](https://habr.com/ru/companies/ods/articles/322626/)
 3. [Дмитрий Макаров Анализ и обработка данных](https://www.dmitrymakarov.ru/data/), [Обучение модели](https://www.dmitrymakarov.ru/learning/)
@@ -42,4 +43,5 @@
 17. [Что такое AI-агент и из каких основных частей он состоит](https://habr.com/ru/articles/951428/)
 
     
+ # ЕЩЕ материалы
  [Дополнительная и продвинутая литература](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Literature.md)
