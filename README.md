@@ -43,6 +43,7 @@
 17. [Что такое AI-агент и из каких основных частей он состоит](https://habr.com/ru/articles/951428/)
 18. [Data Science Glosary](https://c3.ai/glossary/data-science/)
 19. [Interactive Data Visualization with Python](https://blog.tidy-intelligence.com/posts/interactive-data-visualization-with-python/)
+20. [AnatomyOfMatplotlib](https://github.com/matplotlib/AnatomyOfMatplotlib)
 
     
  # ЕЩЕ материалы
