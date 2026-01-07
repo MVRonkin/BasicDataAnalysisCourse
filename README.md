@@ -42,6 +42,7 @@
 16. [Создание умных AI-агентов: полный курс по LangGraph от А до Я. Часть 1.](https://habr.com/ru/companies/amvera/articles/933460/) [Часть 2](https://habr.com/ru/companies/amvera/articles/948000/) [Часть 3](https://habr.com/ru/companies/amvera/articles/949376/)
 17. [Что такое AI-агент и из каких основных частей он состоит](https://habr.com/ru/articles/951428/)
 18. [Data Science Glosary](https://c3.ai/glossary/data-science/)
+19. [Interactive Data Visualization with Python](https://blog.tidy-intelligence.com/posts/interactive-data-visualization-with-python/)
 
     
  # ЕЩЕ материалы
