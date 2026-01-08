@@ -22,6 +22,7 @@
  10. car price prediction datasets:  [vehicle-dataset 1](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho/data) [dataset 2](https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge) [dataset 3](https://www.kaggle.com/datasets/zafarali27/car-price-prediction) [dataset 4](https://www.kaggle.com/datasets/sukhmandeepsinghbrar/car-price-prediction-dataset) [dataset 5](https://www.kaggle.com/datasets/adhurimquku/ford-car-price-prediction) [cars](https://www.kaggle.com/datasets/hydramst/cars-moldova)
  11. [kaggle competitons for get started](https://www.kaggle.com/discussions/getting-started/78482) and [here](https://www.kaggle.com/discussions/getting-started/44088)
  12. [500+ вопросов собеседований: SQL, Python, A/B, статистика, теория вероятностей, продуктовое мышление и др](https://interview-questions-app-production.up.railway.app/)
+ 13. [data-science-glossary-on-kaggl](https://www.kaggle.com/code/shivamb/data-science-glossary-on-kaggle)
 
 # Доп.литература
 1. [Долганов, М. В. Ронкин, А. В. Созыкин Базовые алгоритмы машинного обучения на языке Python : учебно-методическое пособие](https://elar.urfu.ru/handle/10995/122740)
