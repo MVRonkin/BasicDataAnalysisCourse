@@ -48,4 +48,5 @@
 
     
  # ЕЩЕ материалы
- [Дополнительная и продвинутая литература](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Literature.md)
+ * [Дополнительная и продвинутая литература](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Literature.md)
+ * [Подготовка к собеседования DS](https://botayinterview.site/)
