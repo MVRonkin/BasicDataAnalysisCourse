@@ -45,6 +45,8 @@
 18. [Data Science Glosary](https://c3.ai/glossary/data-science/)
 19. [Interactive Data Visualization with Python](https://blog.tidy-intelligence.com/posts/interactive-data-visualization-with-python/)
 20. [AnatomyOfMatplotlib](https://github.com/matplotlib/AnatomyOfMatplotlib)
+21. [Mathematical theory of deep learning](https://arxiv.org/pdf/2407.18384)
+22. 
 
     
  # ЕЩЕ материалы
