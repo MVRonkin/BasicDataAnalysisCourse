@@ -45,7 +45,15 @@
 18. [Data Science Glosary](https://c3.ai/glossary/data-science/)
 19. [Interactive Data Visualization with Python](https://blog.tidy-intelligence.com/posts/interactive-data-visualization-with-python/)
 20. [AnatomyOfMatplotlib](https://github.com/matplotlib/AnatomyOfMatplotlib)
-
+21. [Mathematical theory of deep learning](https://arxiv.org/pdf/2407.18384)
+22. 
+# Доп.литература по Python для анализа данных
+1. [Yandex Python handbook](https://education.yandex.ru/handbook/python)
+2. [Руководство по языку программирования Python](https://metanit.com/python/tutorial/)
+3. [python tutorial](https://docs.python.org/3/tutorial/index.html)
+4. [miniconda installer](https://www.anaconda.com/docs/getting-started/miniconda/install/windows-gui-install)
+5. [pip-install + conda venv](https://www.anaconda.com/docs/getting-started/working-with-conda/packages/pip-install)
+6. [Урок по Jupyter](https://practicum.yandex.ru/blog/chto-takoe-jupyter-notebook/)
     
  # ЕЩЕ материалы
  * [Дополнительная и продвинутая литература](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Literature.md)
