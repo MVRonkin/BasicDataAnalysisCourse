@@ -54,7 +54,9 @@
 4. [miniconda installer](https://www.anaconda.com/docs/getting-started/miniconda/install/windows-gui-install)
 5. [pip-install + conda venv](https://www.anaconda.com/docs/getting-started/working-with-conda/packages/pip-install)
 6. [Урок по Jupyter](https://practicum.yandex.ru/blog/chto-takoe-jupyter-notebook/)
+7. [ds_resources](https://github.com/Extremesarova/ds_resources)
     
  # ЕЩЕ материалы
  * [Дополнительная и продвинутая литература](https://github.com/MVRonkin/BasicDataAnalysisCourse/blob/main/Literature.md)
  * [Подготовка к собеседования DS](https://botayinterview.site/)
+ * [Data-Science-Interview-Questions-Answers](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers/blob/main/Statistics%20Interview%20Questions%20%26%20Answers%20for%20Data%20Scientists.md)
